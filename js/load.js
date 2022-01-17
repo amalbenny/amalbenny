@@ -6,7 +6,7 @@
     document.getElementsByTagName("head")[0].appendChild(element); 
 
 function copyboard(){
-	
+	this.style.userSelect="all";
 	document.execCommand("copy");
 
 }
