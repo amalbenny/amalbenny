@@ -1,0 +1,4 @@
+/* link one - import webmark css*/
+@import url("/wm/beta.css");
+/* link two - import copyboard selection tool */
+@import url("copyboard.css");
