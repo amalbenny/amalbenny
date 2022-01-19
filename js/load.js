@@ -5,7 +5,7 @@ function copyboard(){
 	document.execCommand("copy");
 
 }
-getElementsByTagName("copyboard").onclick = function () { custom001()}
+document.getElementsByTagName("copyboard").onclick = function () { custom001()}
 function custom001(){
-    getElementsByTagName("copyboard").style.animation="flip-out-hor-top .45s cubic-bezier(.55,.085,.68,.53) both";
+    document.getElementsByTagName("copyboard").style.animation="flip-out-hor-top .45s cubic-bezier(.55,.085,.68,.53) both";
 }
