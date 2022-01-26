@@ -1,4 +1,4 @@
-- 👋 Hi, I’m amal
+- 👋 Hi, I’m amal<br>
 A student enthusiast in modern tech revolutions. I am focusing on projects that helps reinforcement of these growths. Could you please join with me to complete this mission.
 You can get in touch by <a href="mailto:amalvelloorath+redirect+from+amalbenny+git@gmail.com">mailing me</a> to form an allignment.
 <!---
