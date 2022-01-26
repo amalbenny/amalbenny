@@ -23,7 +23,7 @@ It is a project to brake restrictions of accessibility when surf over different 
 <h2> Activate web-mark</h2>
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 
-<div onclick="copyMyinp();" style="user-select:all;background-color:lightgray;padding:10px;border-radius:10px;" ><div style="background-color:white;border-radius:10px;overflow-x:scroll;">&lt;link rel&equals;"stylesheet" type&equals;"text/css" href&equals;"https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.0-alpha/wm/beta.css"&gt;
+<div onclick="copyMyinp();" style="overflow-x:scroll;user-select:all;background-color:lightgray;padding:10px;border-radius:10px;" ><div style="background-color:white;border-radius:10px;">&lt;link rel&equals;"stylesheet" type&equals;"text/css" href&equals;"https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.0-alpha/wm/beta.css"&gt;
 </div></div>
 <script type="text/javascript">
 
