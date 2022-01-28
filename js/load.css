@@ -1,11 +1,12 @@
 /* link one - import webmark css*/
 @import url("https://amalbenny.mooo.com/wm/beta.css");
 /* copyboard selection tool - begins*/
+ // note: copyboard is specifically designed for mobile phones. It can't work with Desktop Operating Systems
 
 copyboard {
     user-select:all;
 }
-copyboard:checked {
+copyboard:hover {
         
 animation:flip-out-hor-top .45s cubic-bezier(.55,.085,.68,.53) both
 
