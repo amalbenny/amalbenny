@@ -1,12 +1,9 @@
-
-    document.write('<link rel="stylesheet" type="text/css" href="https://amalbenny.mooo.com/js/load.css">');
+    var element = document.createElement("link");
+    element.setAttribute("rel", "stylesheet");
+    element.setAttribute("type", "text/css");
+    element.setAttribute("href", "https://amalbenny.mooo.com/js/load.css");
+    document.getElementsByTagName("head")[0].appendChild(element); 
 function copyboard(){
 	
 	document.execCommand("copy");
-
-}
-document.getElementsByTagName("copyboard").onclick = function () { custom001()}
-function custom001(){
-    document.getElementsByTagName("copyboard").style.animation="flip-out-hor-top .45s cubic-bezier(.55,.085,.68,.53) both";
-    document.write("<style>@keyframes flip-out-hor-top {0% { transform: rotateX(0); opacity: 1;}100% {transform: rotateX(70deg);opacity: 0;}}</style>");
 }
