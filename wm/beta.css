@@ -1,10 +1,9 @@
 /*white board body for write important content*/
 wm .cardBody {
     margin-top:12mm;
-    margin-left:2mm;
     background-color:white;
-    margin-right:5mm;
-    padding:20px;
+    margin-right:2mm;
+    padding:15px;
     min-height:5cm;
     border-radius:10px;
     margin-bottom:1mm;
@@ -13,7 +12,8 @@ wm .cardBody {
 /*main heading section*/
 wm .cardHead {
     text-align:center;
-    font-size:25px;}
+    font-size:25px;
+}
 
 /* The alert message box */
 wm .alert {
@@ -69,10 +69,9 @@ wm .row:after {
 wm nav {
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: gray;
-  position: fixed;
-  height: 100%;
+  width: 100%;
+  position: relative;
+  height: auto;
   overflow: auto;
 }
 
