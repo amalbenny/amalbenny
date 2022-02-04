@@ -29,12 +29,12 @@ button {
   background-color:#3c7bca;
   color:white;
   color: white;
-  padding: 16px 32px;
+  padding: 5px 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 2px 1px;
   transition-duration: 0.4s;
   cursor: pointer;
   border: none;
