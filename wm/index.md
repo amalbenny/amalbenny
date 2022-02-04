@@ -72,7 +72,7 @@ function outFunc() {
   tooltip.innerHTML = "Copy to clipboard";
 }
 </script>
-<wm>
+</wm>
 
 <h2> <a href="accessories">Accessories</a></h2>
 Accessories helps to learn and explore with Web-Mark. They will help as training materials for new comers to web-mark.
