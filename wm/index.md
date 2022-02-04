@@ -23,47 +23,16 @@ It is a project to brake restrictions of accessibility when surf over different 
 <h2> Activate web-mark</h2>
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 <style>
-.hoverme {
-  position: relative;
-  display: inline-block;
+button {
+   border-radius:6px;
+   background-color:#3c7bca;
+   color:white;
 }
-
-.hoverme .tooltip {
-  visibility: hidden;
-  width: 140px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 150%;
-  left: 50%;
-  margin-left: -75px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.hoverme .tooltip::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-.hoverme:hover .tooltip {
-  visibility: visible;
-  opacity: 1;
-}</style>
+</style>
 
 <input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type&equals;&quot;text/css&quot; href&equals;&quot;https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.1-alpha/wm/beta.css&quot;&gt;" id="myInput" disabled>
 <script src="https://amalbenny.mooo.com/js/load.js" ></script>
-
+<wm>
 <div class="hoverme">
 <button onclick="copyboard();" onmouseout="outFunc()">
   <span class="tooltip" id="myTooltip">Copy to clipboard</span>
@@ -92,7 +61,7 @@ function outFunc() {
   tooltip.innerHTML = "Copy to clipboard";
 }
 </script>
-
+<wm>
 
 <h2> <a href="accessories">Accessories</a></h2>
 Accessories helps to learn and explore with Web-Mark. They will help as training materials for new comers to web-mark.
