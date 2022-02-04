@@ -135,7 +135,7 @@ amalbenny/amalbenny is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Production Resources Website: <a href="https://amalbenny.github.io">amalbenny.github.io</a><br/><br/>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.0-alpha/wm/beta.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.2/wm/style.css">
 Would you like to explore the follow-up regions
 <wm><div class="cardBody"><htmltag><bodytag>
 <!-- partial:index.partial.html -->
@@ -144,14 +144,14 @@ Would you like to explore the follow-up regions
     <div class="focus--mask-inner">Index</div>
   </div>
 </div>
-<p class="credits">
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<p class="credits"> <br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a class ="main" href="/wm">Web Mark</a> <br/>
 &gt;&nbsp;<a class="sub" href="/wm/accessories">Accessories</a><br/> 
 <a class="main" href="/js/load.js">Load project</a><br/>
 </p>
 <!-- partial -->
   </bodytag></htmltag>
-<!--- <li> <a href=js">Load project</a> --->
+<!--- <li> <a href=js">Load project</a> </li> --->
 </div>
 </wm>
