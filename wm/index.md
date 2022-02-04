@@ -19,7 +19,7 @@ It is a project to brake restrictions of accessibility when surf over different 
 <li> Remove barriers without losing capabilities to changing time and space
 </li>
 </ul>
-
+<link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
 <h2> Activate web-mark</h2>
 If you would like to add WebMark framework styling in your website projects just copy and paste code given below inside head tag. Then read examples given in accessories page. 
 <style>
