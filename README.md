@@ -1,6 +1,12 @@
-- 👋 Hi, I’m amal<br>
+- 👋 Hi, I’m amal<br/>
 A student enthusiast in modern tech revolutions. I am focusing on projects that helps reinforcement of these growths. Could you please join with me to complete this mission.
-You can get in touch by <a href="mailto:amalvelloorath+redirect+from+amalbenny.mooo.com@gmail.com">mailing me</a> to form an allignment.
+You can get in touch by <a href="mailto:amalvelloorath+from+amalbenny.mooo.com@gmail.com">mailing me</a> to form an allignment.
+
+- Follow Me
+  - [Instagram](https://instagram.com/amalb1883)
+  - [Twitter](https://twitter.com/amalb1883)
+  - [Reddit](https://www.reddit.com/user/amalb1883/)
+
 <!---
 amalbenny/amalbenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
