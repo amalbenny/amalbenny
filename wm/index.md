@@ -1,9 +1,18 @@
  Welcome to WebMark framework official website
-### <a href="#latest">Rolled out Alpha 2.1 version, come on check it out</a>
+### <a href="#latest">Rolled out Alpha 2.2 version, come on check it out</a>
 
 <section>
 
-<h1 id="latest"> Alpha 2.1  Web Mark Framework</h1>
+<h1 id="latest"> Alpha 2.2  Web Mark Framework</h1>
+<div>
+<h4> What's New </h4>
+   - Updated Tooltip <br/>
+   - Bug fixes <br/>
+   - Updated CardBody<br/>
+   - Copy to Clipboard with <a href="/js/load.js"> Load js</a>
+and many more
+
+</div>
 
 <h2> What is web-mark</h2>
 It is a project to brake restrictions of accessibility when surf over different devices.
