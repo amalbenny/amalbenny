@@ -50,7 +50,7 @@ button {
 }
 </style>
 
-<input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type&equals;&quot;text/css&quot; href&equals;&quot;https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.1-alpha/wm/beta.css&quot;&gt;" id="myInput" disabled>
+<input type="text" value="&lt;link rel&equals;&quot;stylesheet&quot; type&equals;&quot;text/css&quot; href&equals;&quot;https://cdn.jsdelivr.net/gh/amalbenny/amalbenny@v0.2.2/wm/style.css&quot;&gt;" id="myInput" disabled>
 <script src="https://amalbenny.mooo.com/js/load.js" ></script>
 <wm>
 <div class="hoverme">
