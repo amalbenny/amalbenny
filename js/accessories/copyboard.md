@@ -1,6 +1,7 @@
 <p>Click the button to copy to clipboard the text given in the input bar </br>To view the source of
-this program Visit:<a href="https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.html">
-https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.html</a>.</p></hr>
+this program Visit:<a href="https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.md">
+https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.md</a>.
+</p><hr>
 <input type="text" value="&gt; I am al visit amalbenny.mooo.com" id="myInput" disabled>
 
 <div class="hoverme">
