@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Copyboard function example</title>
-<link rel="stylesheet" type="text/css" href="https://iamal.mooo.com/web-mark/stylesheet.css">
-<script type="text/javascript" src="https://amalbenny.mooo.com/js/load.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-
 <p>Click the button to copy to clipboard the text given in the input bar </br>To view the source of
 this program Visit:<a href="https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.html">
 https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.html</a>.</p></hr>
@@ -19,5 +9,4 @@ https://github.com/amalbenny/amalbenny/blob/main/js/accessories/copyboard.html</
   Copied text
   </button>
 </div>
-</body>
-</html>
+<script type="text/javascript" src="https://amalbenny.mooo.com/js/load.js"></script>
