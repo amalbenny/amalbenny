@@ -146,12 +146,11 @@ Would you like to explore the follow-up regions
 </div>
 <p class="credits"> <br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a class ="main" href="/wm">Web Mark</a> <br/>
-&gt;&nbsp;<a class="sub" href="/wm/accessories">Accessories</a><br/> 
-<a class="main" href="/js/load.js">Load project</a><br/>
+<a class ="main" href="wm">Web Mark</a> <br/>
+&gt;&nbsp;<a class="sub" href="wm/accessories">Accessories</a><br/> 
+<a class="main" href="js/load.js">Load project</a><br/>
 </p>
 <!-- partial -->
   </bodytag></htmltag>
-<!--- <li> <a href=js">Load project</a> </li> --->
 </div>
 </wm>
