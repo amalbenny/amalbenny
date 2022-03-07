@@ -1,4 +1,6 @@
 theme: jekyll-theme-architect
+title: Amal Benny | Conqueror of Madness
+description: Official website of Amal Benny.
 remote_theme: amalbenny/iamal-template@iv0.1.0
 plugins:
 - jekyll-remote-theme
