@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+    👨‍💻 I'm a developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
   </summary>
   <br/>
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/KOTLIN-FFF?style=for-the-badge&logo=kotlin"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   </div>
 </details>
 
@@ -91,26 +91,20 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    💬 Inspirational quotes
+    💬 Quotes that inspired me
   </summary>
   <br/>
   <ul>
-    <li id="quote2021">
-      <i>
-        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates. - M, 2021 🎓
-      </i>
+    <li >
+      <i><q>Simplicity is the ultimate sophistication.</q> <br/>&nbsp;<cite>-Leonardo DaVinci</cite></i>
     </li>
     <br/>
-    <li id="quote2022">
-      <i>
-        To become a great software developer, you must continuously read, learn, and code. - M, 2022 📚
-      </i>
+    <li>
+      <i><q>Technology itself is neither good or bad. People are good or bad.</q> <br/>&nbsp;<cite>-Naveen Jain</cite></i>
     </li>
     <br/>
-    <li id="quote2023">
-      <i>
-        Software development changed my life. Now, I want to use software development to change the lives of others. - M, 2023 😊
-      </i>
+    <li>
+      <i> <q>The only constant in the technology industry is change.</q> <br/>&nbsp;<cite>-Marc Benioff</cite></i>
     </li>
   </ul>
   <br/>
