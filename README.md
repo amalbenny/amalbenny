@@ -1,5 +1,4 @@
-### Hey Mortals 👋
-
+### Hey Buddy 👋
 <!--
 **amalbenny/amalbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
+I am
+<H1> Amal Benny✓</H1>
+ <link rel="stylesheet" href="https://amalbenny.github.io/FAR/css/all.min.css">
 
-[![An image of @amalbenny's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amalbenny)](https://holopin.io/@amalbenny)
+``` He/Him ```
+<details><summary> 💬 Reach Out Me</summary>
+<i class="fa-brands fa-google"> https://g.dev/amal </i><br/>
+<i class="fa-brands fa-github"> https://github.com/amalbenny </i>
+<i class="fa-brands fa-linkedin"> https://linkedin.com/in/amal-benny </i>
 
+</details>
+</center>
 <details>
   <summary>
     👨‍💻 I'm a developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
@@ -91,7 +100,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    💬 Quotes that inspired me
+    ✍️ Quotes that inspired me
   </summary>
   <br/>
   <ul>
