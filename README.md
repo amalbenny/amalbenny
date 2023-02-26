@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 style="color:lightgray;"> Hi there 👋</h3>
 <!--
 **amalbenny/amalbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 I am
 <H1> Amal Benny&nbsp;<text style="color:DodgerBlue;">✓</text></H1>
  <link rel="stylesheet" href="https://amalbenny.github.io/FAR/css/all.min.css">
-
-``` He/Him ```
+<Code> He/Him </Code>
 <details><summary> 💬 Reach Out Me </summary>
 <i class="fa-brands fa-google"></i>https://g.dev/amal<br/>
-<i class="fa-brands fa-github"></i>https://github.com/amalbenny<br>
+<i class="fa-brands fa-github"></i>https://github.com/amalbenny<br/>
 <i class="fa-brands fa-linkedin"></i>https://linkedin.com/in/amal-benny
 
 </details>
