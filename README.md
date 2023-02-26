@@ -1,24 +1,10 @@
 <h3 style="color:lightgray;"> Hi there 👋</h3>
-<!--
-**amalbenny/amalbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <center>
 I am
 <H1> Amal Benny&nbsp;<text style="color:DodgerBlue;">✓</text></H1>
  <link rel="stylesheet" href="https://amalbenny.github.io/FAR/css/all.min.css">
 <Code> He/Him </Code>
-<details><summary> 💬 Reach Out Me </summary>
+<details><summary> 💬 Reach Out Me... </summary>
 <i class="fa-brands fa-google"></i>https://g.dev/amal<br/>
 <i class="fa-brands fa-github"></i>https://github.com/amalbenny<br/>
 <i class="fa-brands fa-linkedin"></i>https://linkedin.com/in/amal-benny
@@ -27,7 +13,7 @@ I am
 </center>
 <details>
   <summary>
-    👨‍💻 I'm a developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+    👨‍💻 I'm a developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: ...
   </summary>
   <br/>
   <div>
@@ -45,7 +31,7 @@ I am
 
 <details>
   <summary>
-    💻 Interesting technologies which I hope to learn in the future: 
+    💻 Interesting technologies which I hope to learn in the future: ...
   </summary>
   <br/>
   <div> 
@@ -73,7 +59,7 @@ I am
 
 
 <details>
-  <summary>📈 My GitHub Stats: </summary>
+  <summary>📈 My GitHub Stats: ...</summary>
   <br/>
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=amalbenny&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Amal's Github Stats" />
@@ -99,7 +85,7 @@ I am
 
 <details>
   <summary>
-    ✍️ Quotes that inspired me
+    ✍️ Quotes that inspired me...
   </summary>
   <br/>
   <ul>
@@ -117,3 +103,17 @@ I am
   </ul>
   <br/>
 </details>
+<!--
+**amalbenny/amalbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
