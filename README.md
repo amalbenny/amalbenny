@@ -115,6 +115,7 @@ I am
     <li>
       <i> <q>The only constant in the technology industry is change.</q> <br/>&nbsp;<cite>-Marc Benioff</cite></i>
     </li>
+    <li><i><q>One person can make a difference, and everyone should try</q><br/>&nbsp;<cite> -John F. Kennedy</cite></i></li>
   </ul>
   <br/>
 </details>
