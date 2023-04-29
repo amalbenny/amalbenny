@@ -2,7 +2,7 @@
 <center>
 I am
 <H1> Amal Benny&nbsp;<text style="color:DodgerBlue;">✓</text></H1>
-<h2><a href="https://gist.github.com/">GitHub Gist Profile</a></h2>
+<h2><a href="https://gist.github.com/amalbenny">GitHub Gist Profile</a></h2>
  <link rel="stylesheet" href="https://amalbenny.github.io/FAR/css/all.min.css">
 <Code> He/Him </Code>
 <details><summary> 💬 Reach Out Me... </summary>
